@@ -3,7 +3,7 @@ An activity tracker and motivator to count your calories and track your workouts
 
 Sources:
 
-Site used for formula to calculate recommended daily calorie intake.
+Site used for formula to calculate recommended daily calorie intake.\n
 https://www.medicalnewstoday.com/articles/245588#daily_needs
 
 Both sites used to calculate oxygen consumption while exercising.
