@@ -1,7 +1,6 @@
 # ProjectPocketSage
 An activity tracker and motivator to count your calories and track your workouts. It helps you track your progress towards these goals, and once you have reached them, it will send them an encouraging message.
 
-
 Sources:
 
 Site used for formula to calculate recommended daily calorie intake.
