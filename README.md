@@ -6,19 +6,19 @@ New trained data from lobe can be used to replace current tensorflow files.
 TO RUN CODE, PLEASE RUN "MainUI.py"
 
 Install:
-Twilio - pip3 install twilio
-Tkinter - pip install tkinter
-lobe - pip install lobe
+Twilio - pip3 install twilio;
+Tkinter - pip install tkinter;
+lobe - pip install lobe;
 
 Import:
-import math
-from datetime import datetime, timedelta
-import os
-from twilio.rest import Client
-import tkinter
-from Pil import Image
-import re
-from love import ImageModel
+import math;
+from datetime import datetime, timedelta;
+import os;
+from twilio.rest import Client;
+import tkinter;
+from Pil import Image;
+import re;
+from love import ImageModel;
 
 Sources:
 
