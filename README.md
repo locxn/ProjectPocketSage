@@ -1,5 +1,15 @@
 # ProjectPocketSage
 An activity tracker and motivator to count your calories and track your workouts. It helps you track your progress towards these goals, and once you have reached them, it will send them an encouraging message.
+This program is written with a Python base.
+
+Install:
+Twilio - pip3 install twilio
+
+Import:
+import math
+from datetime import datetime, timedelta
+import os
+from twilio.rest import Client
 
 Sources:
 
